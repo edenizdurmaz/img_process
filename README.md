@@ -1,3 +1,3 @@
-![Mrk348](https://github.com/edenizdurmaz/img_process/mrk0348.png?raw=true)
+![Mrk348](/mrk0348.png)
 
-![Fit Result](https://github.com/edenizdurmaz/img_process/graph.jpeg?raw=true)
+![Fit Result](/graph.jpeg)
